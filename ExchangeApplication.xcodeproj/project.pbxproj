@@ -10,14 +10,16 @@
 		596E5439235B2D66005DC048 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E5438235B2D66005DC048 /* AppDelegate.swift */; };
 		596E543B235B2D66005DC048 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E543A235B2D66005DC048 /* HomeViewController.swift */; };
 		596E5443235B2D67005DC048 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 596E5441235B2D67005DC048 /* LaunchScreen.storyboard */; };
-		596E544B235B41FA005DC048 /* TabBarControllers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E544A235B41FA005DC048 /* TabBarControllers.swift */; };
 		596E544E235B478A005DC048 /* WalletViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E544D235B478A005DC048 /* WalletViewController.swift */; };
 		596E5450235C6D93005DC048 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 596E544F235C6D93005DC048 /* Images.xcassets */; };
 		596E5452235C7755005DC048 /* TradeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E5451235C7755005DC048 /* TradeViewController.swift */; };
 		596E5454235C7934005DC048 /* AnalysisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E5453235C7934005DC048 /* AnalysisViewController.swift */; };
 		596E5456235C7945005DC048 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E5455235C7945005DC048 /* ProfileViewController.swift */; };
-		596E545A235CBB3F005DC048 /* ADViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E5459235CBB3F005DC048 /* ADViewController.swift */; };
-		596E545C235CE2B9005DC048 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E545B235CE2B9005DC048 /* TableViewCell.swift */; };
+		596E54AD23634888005DC048 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E54AC23634888005DC048 /* ProductCell.swift */; };
+		596E54AF236446FD005DC048 /* DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E54AE236446FD005DC048 /* DataSource.swift */; };
+		596E54F62364A8F5005DC048 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E54F52364A8F5005DC048 /* Product.swift */; };
+		596E54F82364D194005DC048 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E54F72364D194005DC048 /* Extension.swift */; };
+		596E54FA2364D4FC005DC048 /* InputViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 596E54F92364D4FC005DC048 /* InputViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,14 +28,16 @@
 		596E543A235B2D66005DC048 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		596E5442235B2D67005DC048 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		596E5444235B2D67005DC048 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		596E544A235B41FA005DC048 /* TabBarControllers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarControllers.swift; sourceTree = "<group>"; };
 		596E544D235B478A005DC048 /* WalletViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WalletViewController.swift; sourceTree = "<group>"; };
 		596E544F235C6D93005DC048 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		596E5451235C7755005DC048 /* TradeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TradeViewController.swift; sourceTree = "<group>"; };
 		596E5453235C7934005DC048 /* AnalysisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalysisViewController.swift; sourceTree = "<group>"; };
 		596E5455235C7945005DC048 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
-		596E5459235CBB3F005DC048 /* ADViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ADViewController.swift; sourceTree = "<group>"; };
-		596E545B235CE2B9005DC048 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		596E54AC23634888005DC048 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
+		596E54AE236446FD005DC048 /* DataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSource.swift; sourceTree = "<group>"; };
+		596E54F52364A8F5005DC048 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		596E54F72364D194005DC048 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
+		596E54F92364D4FC005DC048 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,7 +76,6 @@
 				596E5438235B2D66005DC048 /* AppDelegate.swift */,
 				596E5441235B2D67005DC048 /* LaunchScreen.storyboard */,
 				596E5444235B2D67005DC048 /* Info.plist */,
-				596E544A235B41FA005DC048 /* TabBarControllers.swift */,
 				596E544F235C6D93005DC048 /* Images.xcassets */,
 			);
 			path = ExchangeApplication;
@@ -81,13 +84,12 @@
 		596E544C235B474A005DC048 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				596E54A9236347B0005DC048 /* SettingsTable */,
 				596E543A235B2D66005DC048 /* HomeViewController.swift */,
 				596E544D235B478A005DC048 /* WalletViewController.swift */,
 				596E5451235C7755005DC048 /* TradeViewController.swift */,
 				596E5453235C7934005DC048 /* AnalysisViewController.swift */,
 				596E5455235C7945005DC048 /* ProfileViewController.swift */,
-				596E5459235CBB3F005DC048 /* ADViewController.swift */,
-				596E545B235CE2B9005DC048 /* TableViewCell.swift */,
 			);
 			path = ViewControllers;
 			sourceTree = "<group>";
@@ -104,6 +106,18 @@
 			children = (
 			);
 			path = Repository;
+			sourceTree = "<group>";
+		};
+		596E54A9236347B0005DC048 /* SettingsTable */ = {
+			isa = PBXGroup;
+			children = (
+				596E54AE236446FD005DC048 /* DataSource.swift */,
+				596E54AC23634888005DC048 /* ProductCell.swift */,
+				596E54F52364A8F5005DC048 /* Product.swift */,
+				596E54F72364D194005DC048 /* Extension.swift */,
+				596E54F92364D4FC005DC048 /* InputViewController.swift */,
+			);
+			name = SettingsTable;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,14 +190,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				596E54FA2364D4FC005DC048 /* InputViewController.swift in Sources */,
 				596E544E235B478A005DC048 /* WalletViewController.swift in Sources */,
 				596E543B235B2D66005DC048 /* HomeViewController.swift in Sources */,
 				596E5454235C7934005DC048 /* AnalysisViewController.swift in Sources */,
-				596E545C235CE2B9005DC048 /* TableViewCell.swift in Sources */,
-				596E544B235B41FA005DC048 /* TabBarControllers.swift in Sources */,
 				596E5456235C7945005DC048 /* ProfileViewController.swift in Sources */,
-				596E545A235CBB3F005DC048 /* ADViewController.swift in Sources */,
+				596E54AD23634888005DC048 /* ProductCell.swift in Sources */,
+				596E54F82364D194005DC048 /* Extension.swift in Sources */,
+				596E54F62364A8F5005DC048 /* Product.swift in Sources */,
 				596E5452235C7755005DC048 /* TradeViewController.swift in Sources */,
+				596E54AF236446FD005DC048 /* DataSource.swift in Sources */,
 				596E5439235B2D66005DC048 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
